@@ -1,2 +1,2 @@
 # online-resume
-My first online resume using only HTML
+My first time creating a website using HTML.
