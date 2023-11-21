@@ -1,2 +1,3 @@
 # online-resume
-My first time creating a website using HTML.
+My first time ever creating a website using HTML.
+Website: https://chanikayay.github.io/online-resume/
